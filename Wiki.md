@@ -1,0 +1,5 @@
+# Getting Started #
+
+Find more information at http://conga.oan.es/~alonso/doku.php?id=jparsec.
+
+A detailed wiki to help new users to get started with JPARSEC at source code level is available at http://conga.oan.es/~alonso/doku.php?id=jparsec_wiki.
